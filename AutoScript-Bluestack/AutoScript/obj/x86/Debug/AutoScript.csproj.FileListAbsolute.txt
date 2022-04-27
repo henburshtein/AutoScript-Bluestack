@@ -1,0 +1,14 @@
+C:\Users\G\AppData\Local\Temporary Projects\AutoScript\bin\Debug\AutoScript.exe
+C:\Users\G\AppData\Local\Temporary Projects\AutoScript\bin\Debug\AutoScript.pdb
+C:\Users\G\AppData\Local\Temporary Projects\AutoScript\obj\x86\Debug\AutoScript.Form1.resources
+C:\Users\G\AppData\Local\Temporary Projects\AutoScript\obj\x86\Debug\AutoScript.Properties.Resources.resources
+C:\Users\G\AppData\Local\Temporary Projects\AutoScript\obj\x86\Debug\AutoScript.csproj.GenerateResource.Cache
+C:\Users\G\AppData\Local\Temporary Projects\AutoScript\obj\x86\Debug\AutoScript.exe
+C:\Users\G\AppData\Local\Temporary Projects\AutoScript\obj\x86\Debug\AutoScript.pdb
+C:\Users\G\Desktop\AutoScript\AutoScript\bin\Debug\AutoScript.exe
+C:\Users\G\Desktop\AutoScript\AutoScript\bin\Debug\AutoScript.pdb
+C:\Users\G\Desktop\AutoScript\AutoScript\obj\x86\Debug\AutoScript.Form1.resources
+C:\Users\G\Desktop\AutoScript\AutoScript\obj\x86\Debug\AutoScript.Properties.Resources.resources
+C:\Users\G\Desktop\AutoScript\AutoScript\obj\x86\Debug\AutoScript.csproj.GenerateResource.Cache
+C:\Users\G\Desktop\AutoScript\AutoScript\obj\x86\Debug\AutoScript.exe
+C:\Users\G\Desktop\AutoScript\AutoScript\obj\x86\Debug\AutoScript.pdb

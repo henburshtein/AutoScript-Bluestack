@@ -1,0 +1,15 @@
+C:\Users\G\AppData\Local\Temporary Projects\AutoScript\obj\x86\Release\AutoScript.Form1.resources
+C:\Users\G\AppData\Local\Temporary Projects\AutoScript\obj\x86\Release\AutoScript.Properties.Resources.resources
+C:\Users\G\AppData\Local\Temporary Projects\AutoScript\obj\x86\Release\AutoScript.csproj.GenerateResource.Cache
+C:\Users\G\AppData\Local\Temporary Projects\AutoScript\bin\Release\AutoScript.exe
+C:\Users\G\AppData\Local\Temporary Projects\AutoScript\bin\Release\AutoScript.pdb
+C:\Users\G\AppData\Local\Temporary Projects\AutoScript\obj\x86\Release\AutoScript.exe
+C:\Users\G\AppData\Local\Temporary Projects\AutoScript\obj\x86\Release\AutoScript.pdb
+C:\Users\G\Desktop\AutoScript\AutoScript\obj\x86\Release\AutoScript.exe
+C:\Users\G\Desktop\AutoScript\AutoScript\obj\x86\Release\AutoScript.pdb
+C:\Users\G\Desktop\AutoScript\AutoScript\bin\Release\AutoScript.exe
+C:\Users\G\Desktop\AutoScript\AutoScript\bin\Release\AutoScript.pdb
+C:\Users\G\Desktop\AutoScript\AutoScript\obj\x86\Release\AutoScript.Form1.resources
+C:\Users\G\Desktop\AutoScript\AutoScript\obj\x86\Release\AutoScript.Properties.Resources.resources
+C:\Users\G\Desktop\AutoScript\AutoScript\obj\x86\Release\AutoScript.csproj.GenerateResource.Cache
+C:\Users\G\Desktop\AutoScript\AutoScript\obj\x86\Release\AutoScript.csprojResolveAssemblyReference.cache
